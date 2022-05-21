@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+__pycache__
+**.pyc
+experiments
+.DS_Store
+.ipynb_checkpoints
+.sync-config.cson
+.cache
+*.log
+lightning_logs
+temp
+*.ckpt

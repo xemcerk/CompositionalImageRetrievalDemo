@@ -1,0 +1,5 @@
+tqdm
+tensorboardX
+pillow
+pytorch_pretrained_bert
+gitpython

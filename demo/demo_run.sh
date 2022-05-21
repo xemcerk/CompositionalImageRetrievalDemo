@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES='3' uvicorn demo_api:app --host 0.0.0.0 --reload --port 9527
